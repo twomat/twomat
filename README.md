@@ -8,7 +8,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/webtech-white?style=for-the-badge&logo=webtrees&logoColor=yellow"></a>
 
 <a href="https://twomat.github.io/Websites/The%20Verge/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge%20-%20%235F9EA0?style=for-the-badge&logo=verdaccio&logoColor=black&labelColor=white&color=%23FF4500"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge-white?style=for-the-badge&logo=velog&logoColor=orange"></a>
 
 <a href="https://twomat.github.io/Websites/Techno%20-%20Web/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Techno--Web-%235F9EA0?style=for-the-badge&logo=telegraph&logoColor=black&labelColor=white&color=%235F9EA0"></a>
