@@ -25,7 +25,7 @@
 
 ---
 ### :man_technologist: About Me :
-- :man_student:: Information Security Student.
+- :man_student:: ### Information Security Student.
 
 - :orange_book:: Exploring Technical Content Writing and Testing.
 
