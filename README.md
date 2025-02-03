@@ -5,7 +5,7 @@
 ### All websites can be accessed via these links:
 
 <a href="https://twomat.github.io/Websites/Webtech/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Webtech-%23FFA500?style=for-the-badge&logo=webtrees&logoColor=black&labelColor=white&color=%23FF8C00"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/webtech-white?style=for-the-badge&logo=webtrees&logoColor=yellow"></a>
 
 <a href="https://twomat.github.io/Websites/The%20Verge/">
     <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge%20-%20%235F9EA0?style=for-the-badge&logo=verdaccio&logoColor=black&labelColor=white&color=%23FF4500"></a>
