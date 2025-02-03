@@ -11,7 +11,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge-white?style=for-the-badge&logo=velog&logoColor=orange"></a>
 
 <a href="https://twomat.github.io/Websites/Techno%20-%20Web/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Techno--Web-%235F9EA0?style=for-the-badge&logo=telegraph&logoColor=black&labelColor=white&color=%235F9EA0"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Techno_Web-white?style=for-the-badge&logo=telegraph&logoColor=%235F9EA0"></a>
 
 <a href="https://twomat.github.io/Websites/Camera%20World">
     <img alt="Static Badge" src="https://img.shields.io/badge/Camera_World%20-%20%235F9EA0?style=for-the-badge&logo=circle&logoColor=black&labelColor=white&color=%23000080"></a>
