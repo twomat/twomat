@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZhend1OTMyZzNndHUyNzFhcnhkZ253cTlsdHhuajZnMjUyZWViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VocTVnYTA4YzZtcmE1cjE5aG9nOXN1ejhrZzR1MW15YzhzdmtqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E1Z5uzjHrKli7BzwKG/giphy.gif"/>
 
 ### All websites can be accessed via these links :
 
